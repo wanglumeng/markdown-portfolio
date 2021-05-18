@@ -1,0 +1,3 @@
+- apple
+- intle
+- amd
